@@ -1,0 +1,23 @@
+{
+	"name": "Ksitigarbha Sutra",
+	"url": "https://ksitigarbhasutra.com/",
+	"feed": {
+		"subtitle": "May those who see, hear and read this sutra, be born together in the Land of Ultimate Bliss.",
+		"filename": "feed.xml",
+		"path": "/feed/feed.xml",
+		"id": "https://ksitigarbhasutra.com/"
+	},
+	"jsonfeed": {
+		"path": "/feed/feed.json",
+		"url": "https://ksitigarbhasutra.com.com/feed/feed.json"
+	},
+	"author": {
+		"name": "Yan Susanto",
+		"email": "yansusanto@gmail.com",
+		"url": "https://ksitigarbhasutra.com.com/",
+		"avatar": "https://res.cloudinary.com/kailoon/image/upload/c_scale,dpr_auto,q_auto,w_64/v1610896577/kailoon.com/avatar_ce8dgk.webp",
+		"mailtolink": ""
+	},
+	"socials": {
+	}
+}

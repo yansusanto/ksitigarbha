@@ -1,0 +1,13 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "",
+  "home_page_url": "https://ksitigarbhasutra.com/",
+  "feed_url": "https://ksitigarbhasutra.com.com/feed/feed.json",
+  "description": "",
+  "author": {
+    "name": "Yan Susanto",
+    "url": "https://ksitigarbhasutra.com.com/"
+  },
+  "items": [
+  ]
+}

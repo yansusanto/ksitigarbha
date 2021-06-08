@@ -1,0 +1,21 @@
+---
+layout: base.njk
+pagination:
+  data: collections.sutra
+  size: 13
+  reverse: true
+  filter:
+    - sutra
+---
+
+<article class="grid grid-cols-1 gap-5 md:gap-10 lg:gap-12 sm:grid-cols-2 lg:grid-cols-3 md:grid-flow-row-dense md:max-w-screen-xl
+    md:mx-auto py-10">
+	{% for sutra in pagination.items | reverse %}
+        <a href="{{ sutra.url | url }}" title="{{ sutra.data.title }}" class="md:transform md:hover:-translate-y-2 md:transition-transform bg-white dark:bg-black overflow-hidden">
+            <div class="relative overflow-hidden">
+                {% respimg sutra.data.featuredImg, sutra.data.title %}
+            </div>
+        </a>
+	{% endfor %}
+</article>
+

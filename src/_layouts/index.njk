@@ -1,0 +1,16 @@
+---
+layout: base.njk
+---
+{#% block featuredWorks %}
+  {% include '../_components/_featuredWorks.njk' %}
+{% endblock featuredWorks %}
+
+{#% block services %}
+  {% include '../_components/_services.njk' %}
+{% endblock services % #}
+
+<section id="works" class="mb-20">
+  {% block statelist %}
+    {% include '../_components/_statelist.njk' %}
+  {% endblock statelist %}
+</section>

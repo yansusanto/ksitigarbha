@@ -1,0 +1,10 @@
+{
+	"footerCreditLine1": "地藏菩薩本願經. ",
+	"footerCreditLine2": "No copyright whatsoever.",
+	"builtTools": {
+		"11ty": "https://www.11ty.dev/",
+		"tailwindcss": "https://tailwindcss.com/",
+		"deployed via Netlify": "https://www.netlify.com/"
+	}
+}
+

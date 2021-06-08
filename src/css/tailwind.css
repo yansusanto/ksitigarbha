@@ -1,0 +1,192 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@apply text-black dark:text-purple-100;
+}
+
+hr {
+	@apply my-10 border-gray-200 dark:border-gray-600;
+}
+
+blockquote {
+	@apply md:border-l-2 border-gray-300 text-gray-500 px-0 sm:px-10
+}
+
+.post p {
+	@apply mb-5 md:mb-6;
+}
+
+.post strong {
+	@apply text-black font-semibold dark:text-white;
+}
+
+.post a:not(.direct-link) {
+	@apply text-purple-800 font-medium underline hover:text-purple-900 active:bg-yellow-200 dark:text-purple-100 dark:hover:text-purple-400;
+}
+
+.post h2,
+.post h3,
+.post h4,
+.post h5 {
+	@apply font-semibold tracking-tighter mt-14 mb-6;
+}
+
+.post h2,
+.post h3 {
+	@apply text-3xl;
+}
+
+.post h4 {
+	@apply text-2xl;
+}
+
+.post h5 {
+	@apply text-xl tracking-wider uppercase;
+}
+
+
+.post img {
+	width: 100%;
+}
+
+.post ul,
+.post ol {
+	@apply pl-5 mb-8;
+}
+
+.post li {
+	@apply mb-2
+}
+
+.post ul {
+	@apply list-disc;
+}
+
+
+.post ul.check,
+.post ul.delete {
+	@apply list-none pl-0;
+}
+
+.post ul.check li,
+.post ul.delete li {
+	@apply pl-7;
+}
+
+.post ul.check li {
+	background: url(/img/check.svg) no-repeat scroll 0 7px;
+	background-size: 15px;
+}
+.post ul.delete li {
+	background: url(/img/delete.svg) no-repeat scroll 0 7px;
+	background-size: 15px;
+}
+
+.post ol {
+	@apply list-decimal;
+}
+
+.post ul li::marker,
+.post ol li::marker {
+	@apply text-purple-800 dark:text-purple-300;
+}
+
+.list-item {
+	@apply p-4 flex justify-between border-t dark:border-gray-400 dark:border-opacity-25 text-gray-700 dark:text-gray-300;
+}
+
+.list-item:last-child {
+	@apply border-b sm:border-b-0;
+}
+
+sup {
+	top: -0.2em;
+}
+
+
+/* custom responsive table styles
+* 
+*/
+
+table {
+	@apply w-full border border-t-0 sm:border-t border-gray-200 dark:border-opacity-25 my-10;
+}
+
+thead,
+tfoot {
+	@apply bg-gray-100 dark:bg-black;
+}
+
+
+tr.even,
+tr:nth-child(even) {
+
+}
+
+th,
+td {
+	@apply text-lg text-gray-600 dark:text-gray-300 py-3 px-5 sm:px-3;
+}
+
+th:first-child {
+	@apply text-left;
+}
+
+td label,
+th label {
+	@apply block text-xs md:text-sm uppercase tracking-wide font-normal text-gray-500;
+}
+
+tr {
+	@apply flex flex-col flex-nowrap sm:table-row;
+}
+
+td {
+	@apply border-t border-gray-200 dark:border-opacity-25;
+}
+
+td a {
+	@apply text-purple-800 font-medium no-underline hover:text-purple-900 active:bg-yellow-200 dark:text-purple-100 dark:hover:text-purple-400;
+}
+
+th:not(:first-child),
+td:not(:first-child) {
+	@apply text-right;
+}
+
+@media (max-width: 640px) {
+	table {
+		@apply grid;
+	}
+	thead {
+		@apply hidden;
+	}
+
+	tr td:first-child {
+		@apply justify-start bg-gray-100 dark:bg-gray-700;
+	}
+	tr td {
+		@apply flex justify-between;
+	}
+
+	tr td::before {
+		content: attr(data-title) "";
+		@apply text-gray-500;
+	}
+}
+
+.alert {
+	@apply text-4xl font-bold tracking-tighter dark:text-gray-800 bg-rose-100 dark:bg-purple-200 p-6 md:p-8;
+}
+
+.alert-label {
+	@apply text-sm uppercase tracking-wider font-semibold text-white bg-rose-400 dark:bg-purple-400 px-6 md:px-8 py-3;
+}

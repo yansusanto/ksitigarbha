@@ -1,0 +1,59 @@
+{% set state = data[page.fileSlug] %}
+<section
+    id="post-head" class="px-5 max-w-screen-lg mx-auto flex flex-col justify-center items-center">
+    {# this is for work #}
+    {% if tags %}
+        {% if 'state' in tags %}
+            <h1 class="text-4xl md:text-5xl uppercase font-bold dark:text-purple-100">{{ title }}
+            </h1>
+            <p class="my-10 text-xl">{{ description }}</p>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mb-8">
+                <div class="text-center relative overflow-hidden">
+                    <div class="alert">
+                        <sup>$</sup>
+                        {{ state.tanf }}
+                    </div>
+                    <div class="alert-label">
+                        TANF
+                    </div>
+                </div>
+                <div class="text-center relative overflow-hidden">
+                    <div class="alert">
+                        <sup>$</sup>
+                        {{ state.snap }}
+                    </div>
+                    <div class="alert-label">
+                        SNAP
+                    </div>
+                </div>
+                <div class="text-center relative overflow-hidden">
+                    <div class="alert">
+                        <sup>$</sup>
+                        {{ state.ui }}
+                    </div>
+                    <div class="alert-label">
+                        JOBLESS
+                    </div>
+                </div>
+                <div class="text-center relative overflow-hidden">
+                    <div class="alert">
+                        {{ state.medicaid }}<sup>%</sup>
+                    </div>
+                    <div class="alert-label">
+                        MEDICAID
+                    </div>
+                </div>
+            </div>
+        {% elseif tags %}
+            {#<div class="col-span-full lg:col-start-3 lg:col-end-9">#}
+            <h1 class="text-4xl md:text-5xl font-bold tracking-tighter dark:text-purple-100">{{ title }}</h1>
+            <p class="my-6 text-center text-xl dark:text-gray-300">{{ description }}</p>
+            {% if featuredImg %}{#% respimg featuredImg, title, 'block md:hidden my-5 col-span-full lg:col-start-2 lg:col-end-10 w-full' %#}
+                {#% respimg featuredImg, title, 'block md:hidden my-5' %#}
+            {% endif %}
+        {% endif %}
+    {% else %}
+        <h1 class="text-5xl md:leading-tight tracking-tighter font-bold dark:text-purple-100">{{ title }}</h1>
+        <p class="my-10 text-2xl font-normal dark:text-gray-300">{{ description }}</p>
+    {% endif %}
+</section>

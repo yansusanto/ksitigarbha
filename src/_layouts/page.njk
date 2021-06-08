@@ -1,0 +1,13 @@
+---
+layout: base.njk
+---
+
+{%- block singleTop-%}
+  {%- include '../_components/_pagetitle.njk' -%}
+{%- endblock singleTop-%}
+
+<section class="max-w-screen-lg mx-auto px-5">
+    <article class="pb-6 post text-lg tracking-tight text-gray-700 dark:text-gray-300">
+        {{ content | safe }}
+    </article>
+</section>

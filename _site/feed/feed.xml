@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title></title>
+	<subtitle>May those who see, hear and read this sutra, be born together in the Land of Ultimate Bliss.</subtitle>
+	
+	<link href="https://ksitigarbhasutra.com/feed/feed.xml" rel="self"/>
+	<link href="https://ksitigarbhasutra.com/"/>
+	<updated>2021-06-08T17:14:57Z</updated>
+	<id>https://ksitigarbhasutra.com/</id>
+	<author>
+		<name>Yan Susanto</name>
+		<email>yansusanto@gmail.com</email>
+	</author>
+</feed>
