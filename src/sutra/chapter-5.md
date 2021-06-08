@@ -38,6 +38,7 @@ Bodhisattva Ksitigarbha told Bodhisattva Samantabhadra, ‘Merciful One, these h
 Bodhisattva Samantabhadra answered, “For a long time, I have known of the retributions of the three evil levels. I hope the Merciful One speaks so that all beings who do evil acts in the future of the Dharma-Ending Age rely on and take refuge in the Buddha.”
 
 地藏白言：「仁者，地獄罪報，其事如是。
+
 Bodhisattva Ksitigarbha said, “Merciful One, the following are the retributions of hells:
 
 或有地獄，取罪人舌，使牛耕之。或有地獄取罪人心，夜叉食之。或有地獄，鑊湯盛沸，煮罪人身。或有地獄，赤燒銅柱，使罪人抱。或有地獄，使諸火燒，趁及罪人。或有地獄，一向寒冰。或有地獄，無限糞尿。或有地獄，純飛鈒鑗。或有地獄，多攢火槍。或有地獄，唯撞胸背。或有地獄，但燒手足。或有地獄，盤繳鐵蛇。或有地獄，驅逐鐵狗。或有地獄，盡駕鐵騾。

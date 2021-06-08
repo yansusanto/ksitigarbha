@@ -20,6 +20,7 @@ After Buddha finished, there was a Bodhisattva named Universally Expansive who p
 At that time, the World Honored One said to Bodhisattva Universally Expansive, “Listen, listen. I will explain in general about Bodhisattva Ksitigarbha – how he benefits the human and heavenly beings with his blessings and merit.”
 
 普廣白言：「唯然！世尊，願樂欲聞。」
+
 Bodhisattva Universally Expansive answered, “Yes, World Honored One, we would all be pleased to know.”
 
 佛告普廣菩薩：「未來世中，若有善男子、善女人，聞是地藏菩薩摩訶薩名者，或合掌者、讚歎者、作禮者、戀慕者，是人超越三十劫罪。
@@ -107,4 +108,5 @@ World Honored One, what do we call this sutra? And how do we proclaim this sutra
 The Buddha said to Universally Expansive, “There are three names for this sutra. One is the Ksitigarbha Vow Sutra, another name is the Ksitigarbha Past Conduct Sutra, the other name is the Ksitigarbha Powerful Vow Sutra. Because so many aeons ago this Bodhisattva took such a great vows to benefit all beings, you should proclaim this sutra in accord with these vows.”
 
 普廣聞已，合掌恭敬作禮而退。
+
 After Bodhisattva Universally Expansive heard this, he placed his hands together, and withdrew.

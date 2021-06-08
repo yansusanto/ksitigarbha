@@ -15,6 +15,7 @@ date: 2021-02-01
 At one time, Buddha Sakyamuni appeared in Trayastrimsa Heaven to preach the Dharma for his mother, Lady Maya. At that time, uncountable Buddhas, Bodhisattvas and Mahasattvas from the Ten Directions went there for these instructions. All the Buddhas and Bodhisattvas admired Buddha Sakyamuni for His ability to help all hard and violent living beings learn how to achieve happiness and rid themselves of distress. Every Buddha and Bodhisattva sent their envoys to request the World Honored One’s instructions.
 
 是時如來含笑
+
 When Buddha smiled, millions of bright clouds appeared.
 
 放百千萬億大光明雲 ， 所謂大圓滿光明雲 ， 大慈悲光明雲 ， 大智慧光明雲 ，大般若光明雲 ， 大三昧光明雲 ， 大吉祥光明雲 ， 大福德光明雲， 大功德光明雲，大歸依光明雲，大讚歡光明雲，放如是等，不可說光朋雲已，又出種種微妙之音。
@@ -110,27 +111,35 @@ Buddha Enlightenment-Flower Self-Sufficient King said, “After your offerings h
 The daughter meditated for one day and one night. Unexpectedly, she felt that she had arrived at a shore next to a sea with bubbling, boiling water. Many fierce beasts with iron bodies were flying and running back and forth above the sea. She saw many men and women who were eaten and bitten by evil blood-thirsty animals. She saw many monstrous devils with many hands, eyes, legs or heads. Their teeth grew out of their mouths and were sharp as swords. The devil frightened, chased and seized criminal persons, and twisted their heads and feet together. No one dared to willingly look at these terrifying sights. Because the daughter was meditating on Buddha, she was not afraid of these scenes.
 
 有一鬼王， 名曰無毒 稽首來迎，白聖女曰：「善哉！菩薩！ 何緣來此？」
+
 A ghost king named Poisonless greeted this saintly woman and said, “Excellent, Bodhisattva, why are you here?”
 
 時婆羅門女，問鬼王曰：「此是何處？」
+
 The Brahmin daughter asked of the Ghost King, “Where am I?”
 
 無毒答曰：「 此是大鐵圍山， 西面第一重海 。」
+
 Poisonless answered, “This is the first ocean of the western side of Big Iron-Fence Mountain.”
 
 聖女問曰：「 我聞鐵圍之內， 地獄在中， 是事實不？」
+
 The saintly woman asked, “I have heard that there is a hell inside the Iron-Fence Mountain. Is it true?”
 
 無毒答曰：「 實有地獄 。」
+
 Poisonless answered, “Yes, there indeed exists a hell.”
 
 聖女問曰：「 我今云何得到獄所？」
+
 The saintly woman asked, “Why am I here?”
 
 無毒答曰：「 若非威神， 即須業力， 非此二事， 終不能到 。」
+
 Poisonless answered, “Only those with either a god’s power or those by their karma come here. If it were not because of these two things, you would not be able to come here.”
 
 聖女又問：「 此水何緣， 而乃涌沸？ 多諸罪人， 及以惡獸？」
+
 The saintly woman asked again, “Why does the sea keep boiling? Why are there so many criminal persons and fierce beasts?”
 
 無毒答曰；「 此是閻浮提，造惡眾生， 新死之者， 經四十九日後， 無人繼嗣， 為作功德， 救拔苦難； 生時又無善因， 當據本業，所感地獄， 自然先渡此海。海東十萬由旬， 又有一海， 其苦倍此。彼海之東， 又有一海， 其苦復倍。三業惡因之所招感， 共號業海， 其處是也 。」
@@ -138,6 +147,7 @@ The saintly woman asked again, “Why does the sea keep boiling? Why are there s
 Poisonless answered, “These are those beings who committed bad actions in their past lives. If someone dies and no one arranges proper rituals or does good deeds to relieve their suffering during the first forty nine days after death, and he or she did not have any redeeming merits from benevolent actions when alive, he or she will fall into this hell in accordance with his or her own actions. On the way to hell, it is necessary to cross this sea of suffering first. Four million miles to the east of this ocean is another one, where the beings there suffer twice as much as in this ocean. East of this second ocean is another with even more suffering. These areas are called the Karma Oceans, and are caused by the three causes of Karma: body, speech and mind.”
 
 聖女又問鬼王無毒曰：「地獄何在？」
+
 The saintly woman asked the ghost king, “Where is hell?”
 
 無毒答曰：「三海之內， 是大地獄， 其數百千，各各差別。 所謂大者，具有十八。次有五百， 苦毒無量。 次有千百， 亦無量苦。」
@@ -145,18 +155,23 @@ The saintly woman asked the ghost king, “Where is hell?”
 Poisonless answered, “Among these three oceans, there is Big Hell. This Big Hell is divided into hundreds or thousands of hells. Each divided hell is completely different from the others. The reason why this Hell ‘Big’ is that these hells are classified into five hundred or more small hells. Each hell contains endless sufferings. Within these five hundred hells, there are thousands of smaller hells which also contain boundless sufferings.”
 
 聖女又問大鬼王曰：「我母死來未久，不知魂神當至何趣？」
+
 The saintly woman asked the ghost king again, “My mother recently died, and I wonder where her soul has gone.”
 
 鬼王問聖女曰：「菩薩之母， 在生習何行業？」
+
 The ghost king asked the saintly woman, “Bodhisattva, what did your mother do when she was alive?”
 
 聖女答曰：「我母邪見，譏毀三寶，設或暫信， 旋又不敬。 死雖日淺，未知生。」
+
 She answered, “My mother had improper beliefs and disrespected the Triple Gems. At one time she believed, and then soon after fell into disrespect.”
 
 無毒問曰：「菩薩之母， 姓氏何等？」
+
 Poisonless asked, “Bodhisattva, what is your mother’s name?”
 
 聖女答曰：「我父我母，俱婆羅門種， 父號尸羅善現，母號悅帝利。」
+
 The saintly woman responded, “Both my parents are of the Brahmin caste. My father’s name is Sila Sudarshan, my mother’s Yueh Tili.”
 
 無毒合掌啓菩薩曰：「願聖者卻返本處， 無至憂憶悲戀。 悅帝利罪女，生天以來， 經今三日。 云承孝順之子， 為母設供、修福， 布施覺華定自在王如來塔寺， 非唯菩薩之母， 得脫地獄， 應是無間罪人， 此日悉得受樂，俱同生訖。」
@@ -164,6 +179,7 @@ The saintly woman responded, “Both my parents are of the Brahmin caste. My fat
 Poisonless placed both hands together and told Bodhisattva, “Please saintly woman, return home and do not be sad. The criminal woman Yueh Tili ascended to heaven three days ago. It is said she was saved by the filial piety of her daughter who made offerings at the temple of Buddha Enlightenment-Flower Self-Sufficient King for the purpose of saving her mother. Not only was your mother released from hell, but also as a result those other criminal persons in Endless Hell have been reborn.”
 
 鬼王言畢，合掌而退。
+
 After the ghost king had finished speaking, he placed both his hands together in respect and withdrew.
 
 婆羅門女尋如夢歸， 悟此事已， 便於覺華定自在王如來塔像之前， 立弘誓願：「願我盡未來劫， 應有罪苦眾生， 廣設方便使令解脫。」』

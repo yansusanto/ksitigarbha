@@ -28,6 +28,7 @@ Ksitigarbha, today, I sincerely entrust multitudes in the heavens and the worlds
 Moreover, Ksitigarbha, in the future, those heavenly or human beings about to fall into the evil level, if at the front door of hell they can recite a Buddha’s or a Bodhisattva’s name, or a sentence from a Mahayana sutra, you should use your divine power and employ every possible way to help and save them. You can manifest your limitless form around their homes and shatter the hells for them. Let all of them ascend to heaven and enjoy wonderful happiness.”
 
 爾時世尊，而說偈言：
+
 At that time, the World Honored One spoke a verse:
 
 「現在未來天人眾，吾今慇懃付囑汝，以大神通方便度，勿令墮在諸惡趣。」
@@ -48,58 +49,84 @@ The Buddha told Bodhisattva Empty Space Store, “Listen, listen, I shall explai
 
 一者、天龍護念
 They will be protected by heavenly beings and dragons.
+
 二者、善果日增
 They will increase in good mind day after day.
+
 三者、集聖上因
 They will accumulate superior wisdom.
+
 四者、菩提不退
 They will never regress from Bodhi.
+
 五者、衣食豐足
 They will be opulent in food and clothing.
+
 六者、疾疫不臨
 They will never suffer from any disease.
+
 七者、離水火災
 They will be far away from flood, fire and disaster.
+
 八者、無盜賊厄
 They will not be stolen from or robbed.
+
 九者、人見欽敬
 They will be respected by everyone.
+
 十者、神鬼助持
 Gods and ghosts will help and support them.
+
 十一者、女轉男身
 A woman may be reborn as a male in the next life.
+
 十二者、為王臣女
 A woman may be born as a king’s or minister’s daughter.
+
 十三者、端正相好
 They will be born with good-looking features.
+
 十四者、多生天上
 They will be reincarnated in heaven.
+
 十五者、或為帝王
 They may be reincarnated as a king.
+
 十六者、宿智命通
 They will be aware of their former lives.
+
 十七者、有求皆從
 They will obtain anything they ask.
+
 十八者、眷屬歡樂
 Their families and relatives will be joyful.
+
 十九者、諸橫消滅
 All disasters or accidents will be eliminated.
+
 二十者、業道永除
 They will be rid of all bad karma.
+
 二十一者、去處盡通
 They will go anywhere without problems.
-二十二者、夜夢安樂
+
 They will have pleasant and peaceful dreams.
+
 二十三者、先亡離苦
 Their deceased relatives will be far away from suffering.
+
 二十四者、宿福受生
 They will receive the blessings from their past lives.
+
 二十五者、諸聖讚歎
 They will be praised by Buddhas and Bodhisattvas.
+
 二十六者、聰明利根
 They will become intelligent and have a good roots.
+
 二十七者、饒慈愍心
 They will possess a merciful heart.
+
 二十八者、畢竟成佛
 They will ultimately realize Buddhahood.
 
@@ -109,16 +136,22 @@ Moreover, Bodhisattva Empty Space Store, the heavenly beings, dragons, ghosts or
 
 一者、速超聖地
 They will soon ascend to the sage’s land.
+
 二者、惡業消滅
 Their evil karma will be eliminated.
+
 三者、諸佛護臨
 All Buddhas will protect them.
+
 四者、菩提不退
 They will never regress from Bodhi.
+
 五者、增長本力
 Their natural powers will increase.
+
 六者、宿命皆通
 They will know their past lives.
+
 七者、畢竟成佛」
 They will ultimately realize Buddhahood.”
 

@@ -21,22 +21,31 @@ World Honored One, as I have observed, if those beings now and in the future fin
 
 一者、土地豐壤
 Their land will be very rich and fertile
+
 二者、家宅永安
 Their homes and families will be peaceful forever.
+
 三者、先亡生天
 Their ancestors will raised to heaven.
+
 四者、現存益壽
 They will enjoy longevity.
+
 五者、所求遂意
 They will fulfill their wishes.
+
 六者、無水火災
 They will escape floods or fires.
+
 七者、虛耗辟除
 They will escape anything that frightens or exhausts them.
+
 八者、杜絕惡夢
 They will have no further nightmares.
+
 九者、出入神護
 Their every step will be protected by gods.
+
 十者、多遇聖因
 They will have many opportunities to encounter the Dharma.
 

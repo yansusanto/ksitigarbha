@@ -32,15 +32,19 @@ Buddha Sakyamuni told Bodhisattva Self-Existent King, “The king who wished to 
 “Moreover, long and infinite aeons ago, Buddha Pure-Lotus-Eyes came into the world. This Buddha’s lifespan is forty aeons. The immortal Buddha, Pure-Lotus-Eyes existed during the Dharma-Image Age – at the time when images were used for worship. There was an arhan who instructed many people little by little with his fortunate merits. This arhan met a woman, Bright Eyes, who prepared sacrificial offerings for him.
 
 羅漢問之：「欲願何等？」
+
 The arhan asked her what she wanted.
 
 光目答曰：「我以母亡之日，資福救拔，未知我母生處何趣？」
+
 Bright Eyes answered, “I have prayed and given offerings in memory of my mother since the day she died. I wish to know where my mother is now.”
 
 羅漢愍之，為入定觀，見光目女母墮在惡趣，受極大苦。」
+
 The arhan felt compassion for Bright Eyes. He meditated and saw that her mother had fallen into an evil level and had suffered great pain.
 
 羅漢問光目言：「汝母在生，作何行業？今在惡趣，受極大苦。」
+
 The arhan asked Bright Eyes, “What did your mother do when she was alive? She is now suffering in hell.”
 
 光目答言：「我母所習，唯好食噉魚鱉之屬。所食魚鱉，多食其子，或炒或煮，恣情食噉，計其命數，千萬復倍。尊者慈愍，如何哀救？」
@@ -56,6 +60,7 @@ The arhan felt compassion for her and advised Bright Eyes, “Reverently recite 
 So Bright Eyes sold all her favorite things as soon as she heard the arhan’s instructions. Then she asked a painter to draw the Buddha’s portrait. She gave offerings in sacrifice, and with a reverent heart sorrowfully wept as she worshiped the Buddha. Unexpectedly one night, as if in a dream, she saw a Buddha who was as tall as Mount Sumeru, emitting bright and shining light.
 
 而告光目：「汝母不久當生汝家，纔覺飢寒，即當言說。」
+
 This Buddha told Bright Eyes, “Your mother will be soon reborn in your house. She will be able to speak soon after she feels hunger and cold.”
 
 其後家內婢生一子，未滿三日，而乃言說。稽首悲泣，告於光目：「生死業緣，果報自受，吾是汝母，久處暗冥。自別汝來，累墮大地獄。蒙汝福力，方得受生。為下賤人，又復短命。壽年十三，更落惡道。汝有何計，令吾脫免？」
@@ -103,6 +108,7 @@ Buddha told Bodhisattva Self-Existent King, “The arhan who helped Bright Eyes 
 Bodhisattva Self-Existent King answered Buddha, “World Honored One, please do not be concerned. Billions of Bodhisattvas and Mahasattvas here will certainly proclaim this sutra around the worlds, and with Buddha’s divine power, help all beings.”
 
 定自在王菩薩白世尊已，合掌恭敬作禮而退。
+
 Bodhisattva Self-Existent King placed both his hands together reverently, bowed and knelt in worship, and withdrew after finishing his statements.
 
 爾時四方天王俱從座起，合掌恭敬白佛言：「世尊，地藏菩薩於久遠劫來，發如是大願，云何至今猶度未絕，更發廣大誓言。唯願世尊為我等說。」
@@ -114,6 +120,7 @@ At that time, the Four Heavenly Kings from the east, west, south and north rose 
 Buddha told the four kings, “Excellent, excellent. Now, for your benefit and for the advantage of all beings from heavens and worlds now and in the future, I am going to explain how Bodhisattva Ksitigarbha benevolently helps all beings suffering from their crimes in both life and death in the Saha World, and all the possible ways he uses.”
 
 四天王言：「唯然世尊，願樂欲聞。」
+
 The Four Heavenly Kings said, “Yes, World Honored One, we would like to know.”
 
 佛告四天王：「地藏菩薩久遠劫來，迄至於今，度脫眾生，猶未畢願，慈愍此世罪苦眾生。復觀未來無量劫中，因蔓不斷，以是之故，又發重願。如是菩薩於娑婆世界，閻浮提中，百千萬億方便，而為教化。」

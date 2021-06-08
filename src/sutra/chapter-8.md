@@ -20,6 +20,7 @@ These ghost kings and sons of heavens, by the divine power of Buddha and Bodhisa
 At that time, Yama, Son of Heaven, knelt down, placed his hands together and asked, “World Honored One, inheriting the divine power of Buddha and Bodhisattva Ksitigarbha, Mahasattva, and having good merits, we, sons of heavens and all ghost kings, join this great assembly in the Trayastrimsa. Now, we have a small doubt we would like to express. May Buddha be merciful and explain it to us.”
 
 佛告閻羅天子：「恣汝所問，吾為汝說。」
+
 Buddha told Yama, Son of Heaven, “Whatever you ask, I shall explain it to you.”
 
 是時閻羅天子瞻禮世尊，及迴視地藏菩薩，而白佛言：「世尊，我觀地藏菩薩在六道中，百千方便而度罪苦眾生，不辭疲倦，是大菩薩有如是不可思議神通之事。然諸眾生獲脫罪報，未久之間，又墮惡道。世尊，是地藏菩薩既有如是不可思議神力，云何眾生而不依止善道，永取解脫？唯願世尊為我解說。」
@@ -35,6 +36,7 @@ The Buddha told Yama, Son of Heaven, “Those beings of the worlds are hard-mind
 For example, if someone accidentally walks onto a dangerous road and gets lost among the many devils, tigers, wolves, lions, snakes and scorpions on this road, this person will be attacked immediately. If this person happens to meet and heed the advice of a wise and knowledgeable person, then he could avoid those evil beasts. The person does not know how dangerous this situation is until he hears the wise and knowledgeable person’s advice. Soon after, the person wants to get out of that situation. This wise person leads him away and protects him from those evils, and when he arrives to a safe place, he is peaceful and happy.
 
 而語之言：「咄哉迷人，自今已後，勿履是道。此路入者，卒難得出，復損性命。」
+
 Then, this wise person tells him, ‘Do not walk this road from now on. Those who walk this road will live a difficult and dangerous life.’
 
 是迷路人亦生感重。臨別之時，知識又言：「若見親知及諸路人，若男若女，言於此路多諸毒惡，喪失性命。無令是眾自取其死。」

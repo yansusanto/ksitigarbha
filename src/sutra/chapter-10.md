@@ -16,6 +16,7 @@ At that time, relying on Buddha’s divine power, Bodhisattva Ksitigarbha, Mahas
 Buddha told Bodhisattva Ksitigarbha, “Now, here in the Trayastrimsa Heaven Palace, I am going to explain the comparative merits which are earned from the virtuous act of giving done by those living beings in the worlds. You should listen to thy explanation carefully.”
 
 地藏白佛言：「我疑是事，願樂欲聞。」
+
 Ksitigarbha replied to Buddha, “I have no doubts about this matter, therefore, I will be glad to listen.”
 
 佛告地藏菩薩：「南閻浮提，有諸國王、宰輔大臣、大長者、大剎利、大婆羅門等，若遇最下貧窮，乃至癃殘瘖啞，聾癡無目，如是種種不完具者。是大國王等欲布施時，若能具大慈悲下心含笑，親手遍布施，或使人施，軟言慰喻，是國王等所獲福利，如布施百恆河沙佛功德之利。

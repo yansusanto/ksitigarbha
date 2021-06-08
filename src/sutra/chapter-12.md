@@ -24,6 +24,7 @@ At that time, there was a great Bodhisattva, Mahasattva, named Avalokiteshvara. 
 The Buddha told the Bodhisattva Avalokiteshvara, “You have a close relationship with the Saha world. If heavenly beings, dragons, men, women, gods, ghosts or all beings suffering from their crimes in the six levels hear your name, see your image, adore you and praise you, they will never regress from the Dharma, and they will always be born in heaven or a human world and enjoy happiness. When their good fruit ripens, they will encounter Buddhas and be prophesied as a future Buddha. Now, having mercy and a kind heart for all heavenly beings, dragons and the others, you come here to listen to my explanation of the inconceivable benefits of the Bodhisattva Ksitigarbha. You should listen to me carefully. I shall explain this to you.”
 
 觀世音言：「唯然，世尊，願樂欲聞！」
+
 Avalokiteshvara said, “Yes, World Honored One, I will be glad to hear your words.”
 
 佛告觀世音菩薩：「未來現在諸世界中，有天人受天福盡，有五衰相現，或有墮於惡道之者。如是天人，若男若女，當現相時，或見地藏菩薩形像、或聞地藏菩薩名，一瞻一禮。是諸天人，轉增天福，受大快樂，永不墮三惡道報。何況見聞菩薩，以諸香華、衣服、飲食、寶貝、瓔珞，布施供養，所獲功德福利，無量無邊。
@@ -67,64 +68,85 @@ Furthermore, Bodhisattva Avalokiteshvara, in the future, any good man or good wo
 The Buddha told Bodhisattva Avalokiteshvara, “Bodhisattva Ksitigarbha has a deep relationship with those beings in the worlds. Even through hundreds or thousands of aeons, I still could not convey all the ways he benefits all beings. Therefore, Avalokiteshvara, you should use you divine power to spread this sutra to make sure that all those beings in all worlds can enjoy the merits of peace and happiness through thousands of aeons.”
 
 爾時世尊，而說偈言：「
+
 At that time, World Honored One spoke a verse:
 
 吾觀地藏威神力，恆河沙劫說難盡，見聞瞻禮一念間，利益人天無量事。
+
 “I observe Ksitigarbha’s divine power; like the Ganges sand-like aeons, it cannot be described. To see, to hear, or to worship are all in a thought; endless benefits for humanity and heaven.
 
 若男若女若龍神，報盡應當墮惡道，至心歸依大士身，壽命轉增除罪障。
+
 Men, women, dragons or gods, if by their retributions should fall into evil; sincerely take refuge in Mahasattva, lifespan will increase and karmic obstacles will be eliminated.
 
 少失父母恩愛者，未知魂神在何趣，兄弟姊妹及諸親，生長以來皆不識。
+
 If children lose parent’ love when they are young, and wonder where their spirits are, and they never met brothers, sisters or relatives since they grew up;
 
 或塑或畫大士身，悲戀瞻禮不暫捨，三七日中念其名，
+
 Carve or paint an image of the Mahasattva. Look, worship and adore it without stopping; recite the name from seven to twenty one days,
 
 菩薩當現無邊體，示其眷屬所生界，縱墮惡趣尋出離。若能不退是初心，即獲摩頂受聖記。
+
 Bodhisattva will show his limitless body, show where the relatives have gone; even if fallen onto evil, they will soon escaped.
 
 欲修無上菩提者，乃至出離三界苦。是人既發大悲心，先當瞻禮大士像，
+
 Anyone who wants to follow Bodhi, or be relieved from the suffering of the three levels; this person should raise a great merciful heart,
 
 一切諸願速成就，永無業障能遮止。有人發心念經典，欲度群迷超彼岸，
+
 To gaze at and worship Mahasattva’s image; any wish will come true immediately, and no karma obstacle can stop him.
 
 雖立是願不思議，旋讀旋忘多廢失，斯人有業障惑故，於大乘經不能記。
+
 Anyone who raises his heart to read the sutra hoping to save all beings, although this vow is inconceivable; still the person reads and forgets it soon because of karma obstacles confuse him.
 
 供養地藏以香華，衣服飲食諸玩具，以淨水安大士前，一日一夜求服之，
+
 Offerings of fragrant flowers, clothing, food or any playthings to Ksitigarbha; preparing clean water before the Mahasattva, then to drink after a day and a night.
 
 發殷重心慎五辛，酒肉邪婬及妄語，三七日內勿殺害，
+
 Be careful to avoid the five pungent plants, not to drink wine, eat meat or be licentious, not to kill living beings for twenty one days.
 
 至心思念大士名，即於夢中見無邊，覺來便得利根耳，應是經教歷耳聞，千萬生中永不忘。
+
 Recite Mahasattva’s name reverently, you can see Ksitigarbha in your dream; become intelligent when awakening. From then on, no sutra will be forgotten, never ever forget through thousands of generations.
 
 以是大士不思議，能使斯人獲此慧。
+
 This is caused by Mahasattva’s inconceivable power, which makes this person wise.
 
 貧窮眾生及疾病，家宅凶衰眷屬離。睡夢之中悉不安，求者乖違無稱遂。
+
 Those beings who are poor or sick, a family whose fortune is declining, the people who have uneasy dreams, wishes never come true;
 
 至心瞻禮地藏像，一切惡事皆消滅。至於夢中盡得安，衣食豐饒神鬼護。
+
 Sincerely worship Ksitigarbha’s image, all evil things can be eliminated. Even dreams can be peaceful, clothes and food will be opulent, Gods and ghosts will protect them.
 
 欲入山林及渡海，毒惡禽獸及惡人，惡神惡鬼并惡風，一切諸難諸苦惱。
+
 Anyone who enters the forest or crosses the ocean, afraid of ferocious animals and evil people, all such disaster and distress.
 
 但當瞻禮及供養，地藏菩薩大士像，如是山林大海中，應是諸惡皆消滅。
+
 Gaze at, worship and makes offerings to the image of Bodhisattva Ksitigarbha, Mahasattva, the evils of the forest and ocean will be eliminated.
 
 觀音至心聽吾說，地藏無盡不思議，百千萬劫說不周，廣宣大士如是力。
+
 Avalokiteshvara, listen to me, Kistigarbha is inconceivable. Through thousands of aeons it cannot be told; proclaim and exalt Mahasattva’s divine power.
 
 地藏名字人若聞，乃至見像瞻禮者, 香華衣服飲食奉，供養百千受妙樂。
+
 Anyone hearing Ksitigarbha’s name, anyone seeing Ksitigarbha’s image and worshipping, offering flowers, clothing or food, will enjoy wonderful pleasure for thousands of aeons.
 
 若能以此迴法界，畢竟成佛超生死。
+
 Dedicating the merits to those beings in the Dharma World, finally become a Buddha, crossing over life and death.
 
 是故觀音汝當知，普告恆沙諸國土。」
+
 Avalokiteshvara, thus you should know and proclaim through the worlds – more numerous than the Ganges’ sands.”
