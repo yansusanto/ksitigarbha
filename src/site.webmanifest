@@ -1,8 +1,8 @@
 {
 	"name": "Ksitigarbha Sutra",
-	"short_name": "地藏菩薩本願經",
+	"short_name": "地藏經",
 	"theme_color": "#ffffff",
-	"background_color": "#fdf2f8",
+	"background_color": "#fffff",
 	"display": "standalone",
 	"start_url": "https://ksitigarbhasutra.com",
 	"icons": [
