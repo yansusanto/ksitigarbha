@@ -6,7 +6,7 @@ const markdownitlinkatt = require("markdown-it-link-attributes");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownItAnchor = require("markdown-it-anchor");
-const footnotes = require("eleventy-plugin-footnotes");
+const pluginPWA = require("eleventy-plugin-pwa");
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("./src/css/styles.css");
@@ -19,9 +19,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(pluginRss);
 	eleventyConfig.addPlugin(pluginSyntaxHighlight);
-	eleventyConfig.addPlugin(footnotes, {
-		title: "Endnotes",
-	});
+	eleventyConfig.addPlugin(pluginPWA);
 
 	// Add a filter and a tag to parse content as Markdown in Liquid files
 	eleventyConfig.addFilter("markdown", (content) => markdown(content, true));

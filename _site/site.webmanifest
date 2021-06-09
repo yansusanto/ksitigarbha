@@ -2,9 +2,9 @@
 	"name": "Ksitigarbha Sutra",
 	"short_name": "地藏經",
 	"theme_color": "#ffffff",
-	"background_color": "#fffff",
+	"background_color": "#ffffff",
 	"display": "standalone",
-	"start_url": "https://ksitigarbhasutra.com",
+	"start_url": "/",
 	"icons": [
 		{
 			"src": "./img/android-chrome-192x192.png",

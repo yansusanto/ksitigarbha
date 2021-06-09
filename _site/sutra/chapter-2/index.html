@@ -459,6 +459,16 @@
         <meta name="msapplication-TileColor" content="#603cba">
         <meta name="theme-color" content="#ffffff">
         <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script>
+          if ("serviceWorker" in navigator) {
+            navigator.serviceWorker
+              .register("/service-worker.js")
+              .then(function() {
+                console.log("ServiceWorker has been registered!");
+              })
+              .catch(console.error);
+          }
+        </script>
     </head>
     <body
         class="h-full text-black antialiased bg-gray-50 dark:bg-black dark:text-gray-200 bg-no-repeat bg-top bg-contain">
