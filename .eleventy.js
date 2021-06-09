@@ -11,9 +11,9 @@ const pluginPWA = require("eleventy-plugin-pwa");
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("./src/css/styles.css");
 	eleventyConfig.addPassthroughCopy("./src/browserconfig.xml");
-	eleventyConfig.addPassthroughCopy("manifest.json");
 	eleventyConfig.addPassthroughCopy("./src/admin/config.yml");
 	eleventyConfig.addPassthroughCopy("./src/img");
+	eleventyConfig.addPassthroughCopy("manifest.json");
 
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(pluginRss);
@@ -127,11 +127,7 @@ module.exports = function (eleventyConfig) {
 				tags = tags.filter(function (item) {
 					switch (item) {
 						// this list should match the `filter` list in tags.njk
-						case "works":
-						case "posts":
-						case "state":
-						case "grant":
-						case "fafsa":
+						case "sutra":
 							return false;
 					}
 
