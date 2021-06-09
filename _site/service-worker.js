@@ -32,11 +32,11 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "d4e9c1d1e06cdb598a90f3dce8546b8d"
+    "revision": "ec272885aa667e2d39f8a98c3d271fc7"
   },
   {
     "url": "about/index.html",
-    "revision": "3769d1ef292b61eea14d35cba0893827"
+    "revision": "b6bdd8a9808f380db376a233b255ef62"
   },
   {
     "url": "access-missouri/index.html",
@@ -180,7 +180,7 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "ef23b45121181882962c15fc74e89092"
+    "revision": "fb12baf7d8de3c7161c6723d1a8c65b0"
   },
   {
     "url": "cost-of-child-care/index.html",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/styles.css",
-    "revision": "d65a01444f94fa9407fa4c8cd687d2cc"
+    "revision": "53ca6d3125d8109f80fb31cfc2c2f043"
   },
   {
     "url": "dc-tuition-assistance-grant/index.html",
@@ -1360,7 +1360,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7cc73e97b10e5aee56b0d21d3221729c"
+    "revision": "7e4aea10e071f36770c18e693aa5b500"
   },
   {
     "url": "indiana-snap/index.html",
@@ -1445,6 +1445,10 @@ self.__precacheManifest = [
   {
     "url": "maine-tanf/index.html",
     "revision": "95dc33028d05bdab6b73ec601b3b5ae6"
+  },
+  {
+    "url": "manifest.json",
+    "revision": "27586046bc2dab88263a74943a74998d"
   },
   {
     "url": "maryland-snap/index.html",
@@ -2100,59 +2104,59 @@ self.__precacheManifest = [
   },
   {
     "url": "sutra/chapter-1/index.html",
-    "revision": "01da52536ee7a3f755f18544bf053415"
+    "revision": "7ab4d0847831a0ec5513ba39b09dea90"
   },
   {
     "url": "sutra/chapter-10/index.html",
-    "revision": "f53af795aed46db02da1bab1c33f4579"
+    "revision": "e75bbe68e4b418ed4b78585bfab5825d"
   },
   {
     "url": "sutra/chapter-11/index.html",
-    "revision": "c47e4109dfe5babb31db5e82294fa7df"
+    "revision": "fc04349a227a95d121ab4a090db6b813"
   },
   {
     "url": "sutra/chapter-12/index.html",
-    "revision": "fd3b51e5cbf34fb5e58fc167b06d0300"
+    "revision": "73b023c90bce4d52ac2555f0fd80fc59"
   },
   {
     "url": "sutra/chapter-13/index.html",
-    "revision": "30aadb4ba476e96bae0a02fb67b10ef9"
+    "revision": "468f93bfd3a6f4de59fed2abcc63c402"
   },
   {
     "url": "sutra/chapter-2/index.html",
-    "revision": "5093890a0ef4b5f1af8cfff4e3572515"
+    "revision": "0704bbab76492c7af696e7387dc35f02"
   },
   {
     "url": "sutra/chapter-3/index.html",
-    "revision": "5b7d34bbdad0c03da1f676a2e4d6ad3c"
+    "revision": "d72cbb359c5b387fe1bdbcf855e7481a"
   },
   {
     "url": "sutra/chapter-4/index.html",
-    "revision": "52b8cfe50dead135a9fccc7e8b122a6c"
+    "revision": "08cb28de85bdde85422136294997b916"
   },
   {
     "url": "sutra/chapter-5/index.html",
-    "revision": "a611724af4353b5337a00936cfe58a30"
+    "revision": "b4080eb9b26e040d03267ca81d9d20e1"
   },
   {
     "url": "sutra/chapter-6/index.html",
-    "revision": "74a51e0799d4a0ae81424b45682f0e21"
+    "revision": "e386bf0138526ae4c9866472b466b107"
   },
   {
     "url": "sutra/chapter-7/index.html",
-    "revision": "f6e2562c6348874bedc3610e856bd4cd"
+    "revision": "cce12bd1d27b6c39b3504ef389a6d6a2"
   },
   {
     "url": "sutra/chapter-8/index.html",
-    "revision": "0284e321895529dd8e12194fc293c4cb"
+    "revision": "97ef195a02d30b200da470a77ee4aa36"
   },
   {
     "url": "sutra/chapter-9/index.html",
-    "revision": "7093402d18b253fe67b49782fa7f8fda"
+    "revision": "a34b1f76ab89ef58232a956c5f986366"
   },
   {
     "url": "sutra/index.html",
-    "revision": "231c4124bf273464e3d8cb3c8be23bff"
+    "revision": "9f1cfecc4f1c81ff929558b5abd8c053"
   },
   {
     "url": "tags/11ty/index.html",
@@ -2160,7 +2164,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/all/index.html",
-    "revision": "69b1514fceeb798f4178f7f5f02274bd"
+    "revision": "24cae8a8939550654aa2b85f28f1c103"
   },
   {
     "url": "tags/college/index.html",
@@ -2180,7 +2184,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/index.html",
-    "revision": "d7ab691847f956321d37fccd26aea1f0"
+    "revision": "8d9edd61556e11aeae9d08680139ede7"
   },
   {
     "url": "tags/loan/index.html",
@@ -2196,11 +2200,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/sutra/index.html",
-    "revision": "81f7570a8076690976eb750dfc165f77"
+    "revision": "883ab97e48fabb72a79d5362a05ff17c"
   },
   {
     "url": "tags/tagList/index.html",
-    "revision": "86135f1e3d8712715fd5116c04023cb3"
+    "revision": "a1196c79468a345be307b609aa5589d2"
   },
   {
     "url": "tags/web design/index.html",
@@ -2260,7 +2264,7 @@ self.__precacheManifest = [
   },
   {
     "url": "thankyou/index.html",
-    "revision": "8056f9ac3e22e950da08db7d40f7bee1"
+    "revision": "ba4d68614ec0606fb97866eb7538658b"
   },
   {
     "url": "unemployment-insurance/index.html",

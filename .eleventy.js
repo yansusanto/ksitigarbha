@@ -11,10 +11,9 @@ const pluginPWA = require("eleventy-plugin-pwa");
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("./src/css/styles.css");
 	eleventyConfig.addPassthroughCopy("./src/browserconfig.xml");
-	eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
+	eleventyConfig.addPassthroughCopy("manifest.json");
 	eleventyConfig.addPassthroughCopy("./src/admin/config.yml");
 	eleventyConfig.addPassthroughCopy("./src/img");
-	eleventyConfig.addPassthroughCopy("./src/ads.txt");
 
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(pluginRss);
@@ -56,38 +55,6 @@ module.exports = function (eleventyConfig) {
 		}" width="400" height="300"><figcaption class="text-center text-sm mt-3 text-gray-600 dark:text-gray-200">${
 			caption ? caption : ""
 		}</figcaption></figure>`;
-	});
-
-	eleventyConfig.addShortcode("adsense", function () {
-		return `<section class="py-5">
-		<ins
-        class="adsbygoogle"
-        style="display:block"
-        data-ad-client="ca-pub-7517538922494653"
-        data-ad-slot="7775765001"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
-    <script type='text/javascript'>
-        (function () {
-            var done = false;
-            var script = document.createElement('script');
-            script.async = true;
-            script.type = 'text/javascript';
-            script.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
-            var createScript = setTimeout(function () {
-                document
-                    .getElementsByTagName('HEAD')
-                    .item(0)
-                    .appendChild(script);
-            }, 5000);
-            script.onreadystatechange = script.onload = function (e) {
-                if (! done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                }
-            };
-        })();
-    </script>
-		</section>`;
 	});
 
 	// https://github.com/eeeps/eleventy-respimg
