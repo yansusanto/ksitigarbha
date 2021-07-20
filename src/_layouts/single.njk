@@ -13,6 +13,11 @@ layout: base.njk
     </article>
 </section>
 
+{% block share %}
+    {% include '../_components/_share.njk' %}
+{% endblock share %}
+
 {% block navigations %}
     {% include '../_components/_navigations.njk' %}
 {% endblock navigations %}
+

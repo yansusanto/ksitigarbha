@@ -7,7 +7,7 @@ description: ...any good person who reads the Sutra or worship Bodhisattva Ksiti
 templateEngineOverride: njk,md
 ---
 
-[Ksitigarbha Sutra](/) was first translated from Sanskrit into Chinese in the 7th century A.D., T'ang Dynasty by Venerable Tripiáš­aka Master Shikshananda of Khotan in Central Asia. Speaking the Dharma for the sake of his mother, Lady Maya, this Sutra was spoken by Sakyamuni Buddha towards the end of his life to the beings of the Trayastrimsha Heaven as a mark of gratitude and remembrance for his beloved mother.
+[Ksitigarbha Sutra](/) (Chinese: 地藏經; pinyin: Dìzàng jīng;) was first translated from Sanskrit into Chinese in the 7th century A.D., T'ang Dynasty by Venerable Tripiáš­aka Master Shikshananda of Khotan in Central Asia. Speaking the Dharma for the sake of his mother, Lady Maya, this Sutra was spoken by Sakyamuni Buddha towards the end of his life to the beings of the Trayastrimsha Heaven as a mark of gratitude and remembrance for his beloved mother.
 
 **This is also known in Buddhism as the filial piety sutra**. It tells the story of Earth Store - (the literal translation of the Bodhisattva's name in Sanskrit) Boddhisattva's vows. How in past lives as a filial daughter of a Brahmin woman she saved her mother from Hell by making offerings and cultivation. Later she vowed to save all beings from suffering and is now the Earth Store Bodhisattva.
 

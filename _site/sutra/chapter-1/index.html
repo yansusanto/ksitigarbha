@@ -619,6 +619,52 @@
 </section>
 
 
+    <button
+    type="button"
+    class="flex justify-center items-center share-btn bg-blue-500 hover:bg-blue-600 text-white font-semibold w-full md:hidden
+        p-4">
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        class="align-middle mr-3"
+        fill="currentColor"
+        viewBox="0 0 16 16">
+        <path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0
+        1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5
+        0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/>
+    </svg>
+    Share this article
+</button>
+<script type='text/javascript'>
+    const shareBtn = document.querySelector('.share-btn');
+    const ogBtnContent = shareBtn.textContent;
+    const title = document.querySelector('h1').textContent;
+    let url = document.querySelector('link[rel=canonical]') && document.querySelector('link[rel=canonical]').href || window.location.href;
+    shareBtn.addEventListener('click', () => {
+        if (navigator.share) {
+            navigator
+                .share({title, url})
+                .then(() => {
+                    showMessage(shareBtn, 'Thanks!');
+                })
+                .catch(err => {
+                    showMessage(shareBtn, `Not sharing?`);
+                });
+        } else {
+            showMessage(shareBtn, 'Not supported yet!');
+        }
+    });
+    function showMessage(element, msg) {
+        element.textContent = msg;
+        setTimeout(() => {
+            element.textContent = ogBtnContent;
+        }, 2000);
+    }
+</script>
+
+
+
     
     
         
@@ -628,7 +674,7 @@
     
 
 
-    <div class="grid grid-cols-2 mt-10 max-w-screen-lg mx-auto px-5 gap-x-2 border-t border-gray-200 dark:border-gray-600">
+    <div class="grid grid-cols-2 max-w-screen-lg mx-auto px-5 gap-x-2 md:border-t border-gray-200 dark:border-gray-600">
         <div id="previousPost" class="py-5">
             
         </div>
@@ -641,6 +687,8 @@
             
         </div>
     </div>
+
+
 
 
         </main>
