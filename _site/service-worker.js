@@ -32,11 +32,11 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "ec272885aa667e2d39f8a98c3d271fc7"
+    "revision": "137805ee3ae8c5547a67fadb311254c9"
   },
   {
     "url": "about/index.html",
-    "revision": "29633b01eb453faccc62ac7a940589b2"
+    "revision": "524562af42491a3e87e34082de947007"
   },
   {
     "url": "admin/index.html",
@@ -48,11 +48,11 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "fb12baf7d8de3c7161c6723d1a8c65b0"
+    "revision": "182c3d2fdd136fc3a365dd52f95107ac"
   },
   {
     "url": "css/styles.css",
-    "revision": "cf19953121a64bbd20c5a7668e9658dc"
+    "revision": "ed8e113ee598058add027d7631055d66"
   },
   {
     "url": "feed/feed.json",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7e4aea10e071f36770c18e693aa5b500"
+    "revision": "c01662d9059cd1c5e24de83f351bca58"
   },
   {
     "url": "manifest.json",
@@ -116,59 +116,59 @@ self.__precacheManifest = [
   },
   {
     "url": "sutra/chapter-1/index.html",
-    "revision": "379b9001bda4c22c567dd08d8efad05a"
+    "revision": "976e6ac10aec63422fffe03b625e5286"
   },
   {
     "url": "sutra/chapter-10/index.html",
-    "revision": "0856b66fc45173b5a8334765a48dad3c"
+    "revision": "2fe73c2d687d6b98206e97e2bfecd9b4"
   },
   {
     "url": "sutra/chapter-11/index.html",
-    "revision": "eba655551859f094dda839c44ede6741"
+    "revision": "caba8bfa498767b3f0e409ada236936e"
   },
   {
     "url": "sutra/chapter-12/index.html",
-    "revision": "4eb78d52c3bb72f981337ac34271497c"
+    "revision": "c9856a20722be4ab02f52ab273c1673c"
   },
   {
     "url": "sutra/chapter-13/index.html",
-    "revision": "44372eab6364b728dab4e9fd64e77dc3"
+    "revision": "e763a824c1c1616d2e44cab68a1c3414"
   },
   {
     "url": "sutra/chapter-2/index.html",
-    "revision": "6c73ddae2ddfd075623fe6e73b016f56"
+    "revision": "ab4575cb96e260542049e4369312b7d4"
   },
   {
     "url": "sutra/chapter-3/index.html",
-    "revision": "cfbeeba020da19a4f1b62169b671d1a6"
+    "revision": "dc3378b5a68dd37f14707526b7e308aa"
   },
   {
     "url": "sutra/chapter-4/index.html",
-    "revision": "7f6869dfb69eb5ec85672fd59011d04c"
+    "revision": "44bbb1c4999829b6c9121f5bfa7b21b9"
   },
   {
     "url": "sutra/chapter-5/index.html",
-    "revision": "447a0b9009f8272577ac18d8afe529df"
+    "revision": "9534f4564110228f21b2f241374fcd82"
   },
   {
     "url": "sutra/chapter-6/index.html",
-    "revision": "4b864df9cd4dbd7225cc21142073b7e5"
+    "revision": "f66cc85a03dab3e1e35965f8fc0d58ba"
   },
   {
     "url": "sutra/chapter-7/index.html",
-    "revision": "e52860319651f0ff77f4cddec4ae93c5"
+    "revision": "fda55d50c2e414979ce8e893a8bbc097"
   },
   {
     "url": "sutra/chapter-8/index.html",
-    "revision": "d10001ce5072193690cb488a42dd042f"
+    "revision": "9d36b9425500667c8c21974a3b654ff0"
   },
   {
     "url": "sutra/chapter-9/index.html",
-    "revision": "2812214dabf380c28b78d00918bbebe8"
+    "revision": "097195029a36b191fa52938cc540d808"
   },
   {
     "url": "sutra/index.html",
-    "revision": "9f1cfecc4f1c81ff929558b5abd8c053"
+    "revision": "19e19e0197c2bc91cf5282a33de5510e"
   },
   {
     "url": "tags/11ty/index.html",
@@ -176,7 +176,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/all/index.html",
-    "revision": "24cae8a8939550654aa2b85f28f1c103"
+    "revision": "d840e4b9b78643264befe3c015406dee"
   },
   {
     "url": "tags/college/index.html",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/index.html",
-    "revision": "8d9edd61556e11aeae9d08680139ede7"
+    "revision": "510f68ac80e80c0e0ef91d010d5b8cd1"
   },
   {
     "url": "tags/loan/index.html",
@@ -212,11 +212,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/sutra/index.html",
-    "revision": "883ab97e48fabb72a79d5362a05ff17c"
+    "revision": "c94be7a8a6d0bb24092d1bd3b99e5fae"
   },
   {
     "url": "tags/tagList/index.html",
-    "revision": "a1196c79468a345be307b609aa5589d2"
+    "revision": "02942cce15acfc8bd2fe6ccb9cd9a0fb"
   },
   {
     "url": "tags/web design/index.html",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
   },
   {
     "url": "thankyou/index.html",
-    "revision": "ba4d68614ec0606fb97866eb7538658b"
+    "revision": "06a0a884cb2969e2e7e9862831c499a3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
