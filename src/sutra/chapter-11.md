@@ -1,6 +1,6 @@
 ---
 metaTitle: Dharma-Protection From The Earth God — 地神護法品第十一
-metaDescription:
+metaDescription: Chapter 11 — Dharma-Protection From The Earth God
 title: 地神護法品第十一
 description: Chapter 11 — Dharma-Protection From The Earth God
 featuredImg: 11

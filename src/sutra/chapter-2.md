@@ -1,6 +1,6 @@
 ---
 metaTitle: Ksitigarbha Incarnated In The Assembly — 分身集會品第二
-metaDescription:
+metaDescription: Chapter 2 — Ksitigarbha Incarnated In The Assembly
 title: 分身集會品第二
 description: Chapter 2 — Ksitigarbha Incarnated In The Assembly
 featuredImg: 2

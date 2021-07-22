@@ -1,6 +1,6 @@
 ---
 metaTitle: Beings’ Karmic Contribution — 閻浮眾生業感品第四
-metaDescription:
+metaDescription: Chapter 4 — Beings’ Karmic Contribution
 title: 閻浮眾生業感品第四
 description: Chapter 4 — Beings’ Karmic Contribution
 featuredImg: 4

@@ -1,6 +1,6 @@
 ---
 metaTitle: Benefits From Reciting Buddha’s Names — 稱佛名號品第九
-metaDescription:
+metaDescription: Chapter 9 — Benefits From Reciting Buddha’s Names
 title: 稱佛名號品第九
 description: Chapter 9 — Benefits From Reciting Buddha’s Names
 featuredImg: 9

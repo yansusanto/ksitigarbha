@@ -1,6 +1,6 @@
 ---
 metaTitle: Benefits From Seeing And Hearing Ksitigarbha — 見聞利益品第十二
-metaDescription:
+metaDescription: Chapter 12 — Benefits From Seeing And Hearing Ksitigarbha
 title: 見聞利益品第十二
 description: Chapter 12 — Benefits From Seeing And Hearing Ksitigarbha
 featuredImg: 12

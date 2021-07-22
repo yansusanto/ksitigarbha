@@ -1,6 +1,6 @@
 ---
 metaTitle: Entrusting The Human And Heavenly Beings — 囑累人天品第十三
-metaDescription:
+metaDescription: Chapter 13 — Entrusting The Human And Heavenly Beings
 title: 囑累人天品第十三
 description: Chapter 13 — Entrusting The Human And Heavenly Beings
 featuredImg: 13

@@ -1,6 +1,6 @@
 ---
 metaTitle: Comparing The Merits of Making Offerings — 校量布施功德緣品第十
-metaDescription:
+metaDescription: Chapter 10 — Comparing The Merits of Making Offerings
 title: 校量布施功德緣品第十
 description: Chapter 10 — Comparing The Merits of Making Offerings
 featuredImg: 10

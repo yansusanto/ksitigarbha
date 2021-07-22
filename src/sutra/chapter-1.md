@@ -1,6 +1,6 @@
 ---
 metaTitle: Divine Power in Trayastrimsa Heaven — 忉利天宮神通品第一
-metaDescription:
+metaDescription: Chapter 1 — Divine Power in Trayastrimsa Heaven
 title: 忉利天宮神通品第一
 description: Chapter 1 — Divine Power in Trayastrimsa Heaven
 featuredImg: 1

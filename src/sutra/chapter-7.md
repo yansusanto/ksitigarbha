@@ -1,6 +1,6 @@
 ---
 metaTitle: Benefits for Deceased And Existing Beings — 利益存亡品第七
-metaDescription:
+metaDescription: Chapter 7 — Benefits for Deceased And Existing Beings
 title: 利益存亡品第七
 description: Chapter 7 — Benefits for Deceased And Existing Beings
 featuredImg: 7

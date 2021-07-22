@@ -1,6 +1,6 @@
 ---
 metaTitle: Admiration From The Buddha — 如來讚歎品第六
-metaDescription:
+metaDescription: Chapter 6 — Admiration From The Buddha
 title: 如來讚歎品第六
 description: Chapter 6 — Admiration From The Buddha
 featuredImg: 6

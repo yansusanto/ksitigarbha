@@ -1,6 +1,6 @@
 ---
 metaTitle: Admiration From Ghost Kings — 閻羅王眾讚歎品第八
-metaDescription:
+metaDescription: Chapter 8 — Admiration From Ghost Kings
 title: 閻羅王眾讚歎品第八
 description: Chapter 8 — Admiration From Ghost Kings
 featuredImg: 8

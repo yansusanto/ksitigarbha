@@ -1,6 +1,6 @@
 ---
 metaTitle: Observing The Karma of All Beings — 觀眾生業緣品第三
-metaDescription:
+metaDescription: Chapter 3 — Observing The Karma of All Beings
 title: 觀眾生業緣品第三
 description: Chapter 3 — Observing The Karma of All Beings
 featuredImg: 3

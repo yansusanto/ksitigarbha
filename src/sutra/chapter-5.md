@@ -1,6 +1,6 @@
 ---
 metaTitle: Names of The Hells — 地獄名號品第五
-metaDescription:
+metaDescription: Chapter 5 — Names of The Hells
 title: 地獄名號品第五
 description: Chapter 5 — Names of The Hells
 featuredImg: 5
