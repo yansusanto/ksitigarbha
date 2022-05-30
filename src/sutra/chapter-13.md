@@ -110,6 +110,7 @@ They will be rid of all bad karma.
 二十一者、去處盡通
 They will go anywhere without problems.
 
+二十二者、夜梦安乐
 They will have pleasant and peaceful dreams.
 
 二十三者、先亡離苦
